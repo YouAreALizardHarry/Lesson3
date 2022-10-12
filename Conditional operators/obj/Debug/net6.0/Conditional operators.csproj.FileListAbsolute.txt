@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Lesson3\Lesson3\Conditional operators\obj\Debug\net6.0\Conditional operators.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lesson3\Lesson3\Conditional operators\obj\Debug\net6.0\Conditional operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Lesson3\Lesson3\Conditional operators\obj\Debug\net6.0\Conditional operators.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Lesson3\Lesson3\Conditional operators\obj\Debug\net6.0\Conditional operators.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Lesson3\Lesson3\Conditional operators\obj\Debug\net6.0\Conditional operators.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lesson3\Lesson3\Conditional operators\bin\Debug\net6.0\Conditional operators.exe
+C:\Users\Admin\Desktop\Lesson3\Lesson3\Conditional operators\bin\Debug\net6.0\Conditional operators.deps.json
+C:\Users\Admin\Desktop\Lesson3\Lesson3\Conditional operators\bin\Debug\net6.0\Conditional operators.runtimeconfig.json
+C:\Users\Admin\Desktop\Lesson3\Lesson3\Conditional operators\bin\Debug\net6.0\Conditional operators.dll
+C:\Users\Admin\Desktop\Lesson3\Lesson3\Conditional operators\bin\Debug\net6.0\Conditional operators.pdb
+C:\Users\Admin\Desktop\Lesson3\Lesson3\Conditional operators\obj\Debug\net6.0\Conditional operators.dll
+C:\Users\Admin\Desktop\Lesson3\Lesson3\Conditional operators\obj\Debug\net6.0\refint\Conditional operators.dll
+C:\Users\Admin\Desktop\Lesson3\Lesson3\Conditional operators\obj\Debug\net6.0\Conditional operators.pdb
+C:\Users\Admin\Desktop\Lesson3\Lesson3\Conditional operators\obj\Debug\net6.0\Conditional operators.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Lesson3\Lesson3\Conditional operators\obj\Debug\net6.0\ref\Conditional operators.dll
